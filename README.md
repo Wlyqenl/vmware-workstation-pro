@@ -1,4 +1,4 @@
-# VMware Workstation Pro
+# VMware Workstation Pro 26H1
 
 VMware Workstation Pro 是一款功能强大的桌面虚拟化软件，允许用户在单一物理机上同时运行多个操作系统。
 
